@@ -1,0 +1,2 @@
+option('android_ndk_path', type: 'string', value: '', description: 'Path to Android NDK')
+
